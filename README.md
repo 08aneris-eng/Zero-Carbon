@@ -8,7 +8,7 @@ An AI-driven decision support system that helps manufacturing plants assess thei
 for emissions reduction, and support the achievement or sustainment of net-zero operations. Based on the plant’s current 
 emissions profile, the tool provides guidance tailored to either achieving zero carbon or sustaining the net-zero status.
 
-## Problem statement
+## Problem Statement
 
 Manufacturing plants are significant contributors to carbon and are under increasing pressure to meet net-zero targets. While many sustainability tools exist, businesses often struggle to understand their emissions profile, evaluate renewable energy opportunities, and determine the actions required to achieve or sustain zero carbon.  
   
