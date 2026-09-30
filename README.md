@@ -1,7 +1,7 @@
 # ZeroCarbon 
 > AI-driven sustainability tool for manufacturing plants
 > 
-> Tool developed during Deloitte India internship
+> Tool developed during Deloitte internship
 
 ## Tool Overview
 An AI-driven decision support system that helps manufacturing plants assess their carbon footprint, identify opportunities 
